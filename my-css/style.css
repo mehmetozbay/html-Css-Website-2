@@ -1,0 +1,29 @@
+body {
+  background-color: #fff;
+}
+.main-content {
+  background-color: #eaeaea;
+  width: 90%;
+  height: 100vh;
+  margin: 0 5%;
+}
+.main-nav {
+  width: 90%;
+  margin: 0% 5%;
+  height: 60px;
+
+  padding: 4px 0;
+}
+.left-menu {
+  width: 5%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: brown;
+}
+.logo a {
+  color: #000;
+  font-weight: 600;
+  font-size: 28px;
+}
